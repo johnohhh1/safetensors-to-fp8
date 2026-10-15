@@ -1,0 +1,12 @@
+# Model files are large; never commit them
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.gguf
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
